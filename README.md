@@ -2,6 +2,6 @@
 
 ## result
 
-![home screen](asset/image/home_screen.jpg)
+![home screen](../asset/image/home_screen.png)
 
-![splash screen](asset/image/splash_screen.jpg)
+![splash screen](../asset/image/splash_screen.png)
